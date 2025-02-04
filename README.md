@@ -23,8 +23,8 @@ Este é um bot do Discord desenvolvido com [NetCord](https://netcord.dev/), uma 
 1. Clone este repositório:
 
     ```sh
-    git clone https://github.com/seu-usuario/seu-repositorio.git
-    cd seu-repositorio
+    git clone https://github.com/Esferas-RPG/Esferas.Bot.git
+    cd Esferas.Bot
     ```
 
 2. Instale as dependências:

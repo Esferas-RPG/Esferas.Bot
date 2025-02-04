@@ -1,0 +1,6 @@
+services:
+    discord-bot:
+        image: esferas-bot
+        build: .
+        container_name: esferas-bot
+        restart: always
